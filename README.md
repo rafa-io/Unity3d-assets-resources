@@ -3,6 +3,8 @@ A curated list of opensource unity3d resources
 
 - [Effect and Shaders](#effect-and-shaders)
 - [Audio](#audio)
+- [AI](#ai)
+
 ### Effect and Shaders
 - [Abstract Wires Effect](https://github.com/qine/unity-abstract-wire)
 - [unity-sound-shock](https://github.com/valbeat/unity-sound-shock)
@@ -13,3 +15,7 @@ A curated list of opensource unity3d resources
 ### Audio
 - [KlakLASP](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
 - [Musual](https://github.com/smkplus/Musual) - Music Visualization Shader
+
+### AI
+- [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts
+- [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D

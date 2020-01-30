@@ -17,5 +17,5 @@ A curated list of opensource unity3d resources
 - [Musual](https://github.com/smkplus/Musual) - Music Visualization Shader
 
 ### AI
-- [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts
+- [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.
 - [NPBehave](https://github.com/meniku/NPBehave) - Event Driven Behavior Trees for Unity 3D

@@ -17,6 +17,8 @@ A curated list of opensource unity3d resources
 - [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity. LASP is a Unity plugin providing low-latency, high-performance and easy-to-use audio input functionality that is useful for creating audio reactive visuals.
 - [KlakLASP](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
 - [Musual](https://github.com/smkplus/Musual) - Music Visualization Shader
+- [Unity-AudioVisualization-](https://github.com/casefc3s/Unity-AudioVisualization-) - Patterned "bar equalizer" audio visualization in Unity 5.
+- [SPECTRA](https://github.com/mheine/Spectra) - Interactive 3D music visualization for .mp3 files using Unity and C#
 
 ### AI
 - [Unity Movement AI](https://github.com/antonpantev/unity-movement-ai) - A library of common movement AI scripts known as Steering Behaviors. You can use these scripts to help your NPCs move around your game.

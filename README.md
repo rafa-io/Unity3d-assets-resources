@@ -11,6 +11,7 @@ A curated list of opensource unity3d resources
 - [Global Outline](https://github.com/rickomax/globaloutline) - Unity (3D/UI/Sprites) full-screen masked outline shader
 - [Unity_Plexus-Effect](https://github.com/karolwieczorek/Unity_Plexus-Effect)
 - [unity-audio-based-shader](https://github.com/S-ido/unity-audio-based-shader) - Audio data driven shader.
+- [Skinner](https://github.com/keijiro/Skinner) - Skinner is a collection of special effects that use vertices of an animating skinned mesh as emitting points. It uses a special replacement shader to convert vertex positions into GPU-friendly data, and thus it avoids spending extra memory and CPU time for handling them (uses GPU resources instead).
 
 ### Audio
 - [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity. LASP is a Unity plugin providing low-latency, high-performance and easy-to-use audio input functionality that is useful for creating audio reactive visuals.

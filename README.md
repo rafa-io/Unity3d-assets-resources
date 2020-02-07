@@ -13,6 +13,7 @@ A curated list of opensource unity3d resources
 - [unity-audio-based-shader](https://github.com/S-ido/unity-audio-based-shader) - Audio data driven shader.
 
 ### Audio
+- [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity. LASP is a Unity plugin providing low-latency, high-performance and easy-to-use audio input functionality that is useful for creating audio reactive visuals.
 - [KlakLASP](https://github.com/keijiro/KlakLasp) - An extension for the Klak Wiring system to create audio reactive behaviors.
 - [Musual](https://github.com/smkplus/Musual) - Music Visualization Shader
 
